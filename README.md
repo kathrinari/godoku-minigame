@@ -1,10 +1,9 @@
 # godoku-minigame
-university project with python
 
-obligatory project in the course "linguistic gaming with python" 
+This minigame is the result of a university project and was part of the course "Linguistic Gaming with Python". 
 
-programmed a godoku minigame with small pygame interface
+The game represents a Godoku, which is the letter-based equivalent of Sudoku. The goal is to fill out all the boxes with different letters, so that no letter would repeat vertically, horizontally, or inside the same frame. Once the Godoku is solved, the interface highlights the solution word. 
 
-godoku is a sudoku, only with letters instead of numbers
+Godoku minigame is based on Python and Pygame. 
 
-unfortunately, the project documentation is written in German
+Documentation for this project is only available in German.
